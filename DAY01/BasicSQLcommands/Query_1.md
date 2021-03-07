@@ -4,4 +4,4 @@
 # Query:
 ## select Moviename from movie where Movietype like %Drama%;
 
-![Alt Text](https://https://github.com/rohini-kesireddy/MYSQL/blob/main/DAY01/Images/Query_1.png)<br />
+![Alt Text](https://github.com/rohini-kesireddy/MYSQL/blob/main/DAY01/Images/Query_1.png)<br />
