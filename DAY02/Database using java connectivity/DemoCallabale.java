@@ -9,7 +9,7 @@ public class DemoCallable {
 
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
-		Connection c=DriverManager.getConnection("jdbc:mysql://localhost:3306/roshan","root","root");
+		Connection c=DriverManager.getConnection("jdbc:mysql://localhost:3306/rohini","root","root");
 		CallableStatement cs=c.prepareCall("{call getAllStudents}");
 		ResultSet rs=cs.executeQuery();
 		while(rs.next())
